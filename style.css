@@ -100,8 +100,8 @@ body {
 
 .letter {
     position: absolute;
-    width: 200%;
-    max-width: 30000px;
+    width: 100%;
+    max-width: 3000px;
     height: auto;
     background-color: #fff;
     border-radius: 10px;
